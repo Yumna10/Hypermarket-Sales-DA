@@ -19,8 +19,11 @@ This notebook provides a comprehensive analysis of hypermarket sales data using 
 5. Ask Questions About the Data:
 
    Total and Average Sales by Department: Identifies top-performing departments and evaluates their average sales performance.
+   
    Seasonal Trends: Analyzes sales data across different months to determine peak sales periods.
+   
    Sales by City and Payment Method: Understands the relationship between sales performance, city locations, and preferred payment methods.
+   
    Customer Types: Examines sales by customer type to tailor marketing efforts.
 
-6. Power BI Dashboard: A Power BI dashboard has been uploaded to provide interactive visualizations and additional insights into the hypermarket sales data.
+7. Power BI Dashboard: A Power BI dashboard has been uploaded to provide interactive visualizations and additional insights into the hypermarket sales data.
